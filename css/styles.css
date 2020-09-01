@@ -10368,7 +10368,7 @@ body {
 
 #map_location{
   position: absolute;
-  clip-path: circle(20px at center);
+  clip-path: circle(40px at center);
 }
 
 #training_dropdown{
